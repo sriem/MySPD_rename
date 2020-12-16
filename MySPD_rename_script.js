@@ -3,7 +3,7 @@
 // @namespace    http://amazon.com/
 // @version      0.1
 // @description  A Tampermonkey userscript which rename Chute IDs to Lables
-// @author       riemas
+// @author       riemas@
 // @credits      lccozzol@
 // @match      https://insights-grafana.corp.amazon.com/*
 // @grant        none
